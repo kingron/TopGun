@@ -43,6 +43,7 @@
 * [ScreenRuler](https://sourceforge.net/projects/screenruler/): 屏幕尺子，需要在屏幕上测量距离角度等数据的必备良品
 * [Pichon](https://icons8.com/): 成千上万矢量图标素材，免费版足够使用了
 * [OBS-Studio](https://obsproject.com/): 免费开源的录屏和直播和视频线性编辑工具
+* [Pointofix](https://www.pointofix.de/): 优秀的电子教鞭，屏幕共享、网课、教程录制好帮手和屏幕涂鸦工具，次优选择 [红烛电子教鞭](http://www.foredu.com/cn/)
   
 ### 土豪版
 这里推荐的软件，优中选优，但氪金，体积也不一定小巧，但功能强大，性能优良。
