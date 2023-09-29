@@ -44,6 +44,10 @@
 * [Pichon](https://icons8.com/): 成千上万矢量图标素材，免费版足够使用了
 * [OBS-Studio](https://obsproject.com/): 免费开源的录屏和直播和视频线性编辑工具
 * [Pointofix](https://www.pointofix.de/): 优秀的电子教鞭，屏幕共享、网课、教程录制好帮手和屏幕涂鸦工具，次优选择 [红烛电子教鞭](http://www.foredu.com/cn/)
+* [Ventoy](https://www.ventoy.net/): 新一代多启动系统维护和安装U盘制作工具
+* [Foxmail](https://www.foxmail.com/): 简洁优秀的电子邮件客户端
+* [Idea](https://www.jetbrains.com/): 史上最强Java集成开发环境，社区版足够用了
+* [NetBeans](https://netbeans.apache.org/): 优秀的跨平台集成开发工具，支持各种语言，尤其适合远程开发和调测Linux
   
 ### 土豪版
 这里推荐的软件，优中选优，但氪金，体积也不一定小巧，但功能强大，性能优良。
