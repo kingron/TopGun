@@ -31,7 +31,8 @@
 * [网络调试助手](http://www.cmsoft.cn): 最简单小巧却功能多多的TCP/UDP 调测工具
 * [GifCam](https://blog.bahraniapps.com/gifcam/): 即开即用且可编辑的 GIF 动画录屏工具
 * [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): 好用的免费开源离线OCR，支持屏幕截图直接识别文字
-* [V2rayN](https://github.com/2dust/v2rayN): 虽然有点大，但支持各种协议，缺少https proxy有点遗憾。白嫖请戳 [Freefq ](https://raw.fastgit.org/freefq/free/master/v2)
+* [V2rayN](https://github.com/2dust/v2rayN): 魔法上网工具，虽然有点大，但支持各种协议，缺少https proxy有点遗憾。白嫖请戳 [Freefq ](https://raw.fastgit.org/freefq/free/master/v2)
+* [gost](https://github.com/ginuerzh/gost): 强大的网络代理和隧道工具
 * [Wavosaur](https://www.wavosaur.com/): 史上最小巧的音频编辑软件，次优选择 [Audacity](https://www.audacityteam.org/)
 * [Foobar2000](https://www.foobar2000.org/): 极致专注音乐本身的高性能低资源音乐播放器，次优选择 [Winamp](https://www.winamp.com/)
 * [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif): Chrome/Edge下必备代理管理工具插件，利用自动切换模式可实现无痛上网
