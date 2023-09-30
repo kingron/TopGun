@@ -24,7 +24,7 @@
 * [Ditto](https://ditto-cp.sourceforge.io/): 最稳定强大的多重剪切板工具。次优选择 ~~[ClipX，已停更](http://clipx.org/)~~
 * [优效日历](https://www.youxiao.cn/): 漂亮且资源消耗低的强大的日历软件，次优选择 [梦畅闹钟，已停更](http://www.naozhong.net/)
 * [HFS](http://www.rejetto.com/hfs/): 小白也会用的最简单小巧的自带图形管理界面的HTTP文件服务器
-* [FileZilla](https://filezilla-project.org/): 拳打FlashFXP脚踢CuteFTP，简洁强大的FTP解决方案，包括FTP服务器和客户端，可分别安装
+* [FileZilla](https://filezilla-project.org/): 拳打FlashFXP脚踢CuteFTP，简洁强大的FTP/SFTP解决方案，包括FTP服务器和客户端，可分别安装
 * [WinSCP](https://winscp.net/): 好用的SFTP/SSH文件管理客户端工具
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/): 小巧且强大的SSH和Telnet终端工具，支持SSH Tunnel隧道
 * [Scrcpy](https://github.com/Genymobile/scrcpy): 最简单小巧好用的电脑上连接安卓的控屏软件，安卓开发人员必备
@@ -59,6 +59,7 @@
 * [TeamViewer](https://www.teamviewer.com/): 老牌的最简单易用的远程控屏工具，乞丐版有时间限制
 * [SnagIt](https://www.techsmith.com/): 史上最强和易用的截图和**面向对象**的编辑标注软件，任何标注上去东西可以随时重新编辑
 * [Camtasia](https://www.techsmith.com/): 专业好用的电脑录屏和视频编辑工具
+* [StylePix](https://www.hornil.com/en/stylepix/): 超轻量级类Photoshop图片编辑软件，普通人够用的图片处理软件，支持图层和滤镜，次优选择开源免费的 [GIMP](https://www.gimp.org/)
 
 ### 不推荐的软件
 甲之蜜糖，乙之砒霜，别人说好，其实不好的软件。
