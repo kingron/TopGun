@@ -57,6 +57,7 @@
 * [upx](https://upx.github.io/): 通用可执行文件压缩和加壳工具
 * [µTorrent](https://www.utorrent.com/): 简单小巧高性能BT客户端
 * [简易IIS服务器](http://www.netbox.cn/): 史上最简单小巧的ASP/ASP.NET服务器，不用安装庞大复杂的IIS
+* [ImgBurn](https://www.imgburn.com/): 功能强大小巧的CD/DVD光盘镜像制作和刻录工具
   
 ### 土豪版
 这里推荐的软件，优中选优，但氪金，体积也不一定小巧，但功能强大，性能优良。
