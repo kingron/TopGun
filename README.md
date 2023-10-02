@@ -17,7 +17,7 @@
 * [Process Explorer](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer): 史上最强的任务管理器，程序员必备利器，不会用它的程序员不是一个好程序员
 * [WizTree](https://diskanalyzer.com/): 史上最快且强大的磁盘用量分析工具
 * [Snipaste](https://www.snipaste.com/): 强悍的截图、**面向对象**的标注和贴图工具
-* [AutoHotKey](https://www.autohotkey.com): 强大的自动化键盘鼠标操作软件，可以参考这个 [MouseGestureL](https://github.com/kingron/MouseGestureL) 版，小巧但强大到令人发指。
+* [AutoHotKey](https://www.autohotkey.com): 强大的自动化键盘鼠标操作软件，可以参考这个 [MouseGestureL](https://github.com/kingron/MouseGestureL) 版，小巧但强大到令人发指。次优选择 [AutoIt](https://www.autoitscript.com)
 * [FRP](https://github.com/fatedier/frp): 强大的内网穿透工具，需要有个公网IP的服务器，但这里有个免费的可以服用 https://freefrp.net
 * [Everything](https://www.voidtools.com/): 史上最快的根据文件名查找磁盘文件的原创工具，其他快搜都是抄这个的
 * [QQ输入法](http://qq.pinyin.cn/): 搜狗输入法马化腾特供版，无广告、无捆绑、无隐私问题，Windows 10及以上版本次优选择系统自带的微软输入法
@@ -49,6 +49,14 @@
 * [Foxmail](https://www.foxmail.com/): 简洁优秀的电子邮件客户端
 * [Idea](https://www.jetbrains.com/): 史上最强Java集成开发环境，社区版足够用了
 * [NetBeans](https://netbeans.apache.org/): 优秀的跨平台集成开发工具，支持各种语言，尤其适合远程开发和调测Linux
+* [SQLiteStudio](https://sqlitestudio.pl/): 优秀的SQLite数据库管理客户端桌面应用
+* [VisualSubSync](http://www.visualsubsync.org/): 小巧优秀的视频独立外挂字幕编辑工具
+* [VMWare Workstaion Player](https://www.vmware.com/): 老牌优秀的虚拟机工具，次优选择[Virtual Box](https://www.virtualbox.org/)
+* [TCPMapping](http://www.robot51.com/): 简单小巧的TCP端口映射器
+* [TFTP](http://tftpd32.jounin.net): 简单小巧的TFTP服务器
+* [upx](https://upx.github.io/): 通用可执行文件压缩和加壳工具
+* [µTorrent](https://www.utorrent.com/): 简单小巧高性能BT客户端
+* [简易IIS服务器](http://www.netbox.cn/): 史上最简单小巧的ASP/ASP.NET服务器，不用安装庞大复杂的IIS
   
 ### 土豪版
 这里推荐的软件，优中选优，但氪金，体积也不一定小巧，但功能强大，性能优良。
