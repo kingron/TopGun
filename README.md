@@ -20,6 +20,7 @@
 * [FRP](https://github.com/fatedier/frp): 强大的内网穿透工具，需要有个公网IP的服务器，但这里有个免费的可以服用 https://freefrp.net
 * [GifCam](https://blog.bahraniapps.com/gifcam/): 即开即用且可编辑的 GIF 动画录屏工具
 * [gost](https://github.com/ginuerzh/gost): 强大的网络代理和隧道工具
+* [HandBrake](https://handbrake.fr/): 最小巧的视频转码和VCD/DVD Ripper压缩工具
 * [HFS](http://www.rejetto.com/hfs/): 小白也会用的最简单小巧的自带图形管理界面的HTTP文件服务器
 * [HxD](http://www.mh-nexus.de/): 史上最小巧清爽且高性能的十六进制编辑器，扔掉 WinHex 吧
 * [HeidiSQL](https://www.heidisql.com/): 史上最小而强的性能优异的符合程序员需求的MySQL管理客户端后起之秀
