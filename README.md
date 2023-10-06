@@ -14,6 +14,7 @@
 * [AnyDesk](https://www.anydesk.com): 优秀小巧的远程控屏工具，国内连接速度稍差，优选 6.2 以下版本，次优选择 [ToDesk](https://www.todesk.com/)
 * [AutoHotKey](https://www.autohotkey.com): 强大的自动化键盘鼠标操作软件，可以参考这个 [MouseGestureL](https://github.com/kingron/MouseGestureL) 版，小巧但强大到令人发指。次优选择 [AutoIt](https://www.autoitscript.com)
 * [Autoruns](https://learn.microsoft.com/zh-cn/sysinternals/downloads/autoruns): 史上最强的全方位无死角的自动启动管理工具
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html): 小巧的查看系统CPU硬件信息的工具
 * [Ditto](https://ditto-cp.sourceforge.io/): 最稳定强大的多重剪切板工具。次优选择 ~~[ClipX，已停更](http://clipx.org/)~~
 * [Everything](https://www.voidtools.com/): 史上最快的根据文件名查找磁盘文件的原创工具，其他快搜都是抄这个的
 * [FileZilla](https://filezilla-project.org/): 拳打FlashFXP脚踢CuteFTP，简洁强大的FTP/SFTP解决方案，包括FTP服务器和客户端，可分别安装
@@ -26,6 +27,7 @@
 * [HandBrake](https://handbrake.fr/): 最小巧的视频转码和VCD/DVD Ripper压缩工具
 * [HFS](http://www.rejetto.com/hfs/): 小白也会用的最简单小巧的自带图形管理界面的HTTP文件服务器
 * [HxD](http://www.mh-nexus.de/): 史上最小巧清爽且高性能的十六进制编辑器，扔掉 WinHex 吧
+* [HWiNFO](https://www.hwinfo.com/download/): 系统硬件信息检测和报告工具，个人使用免费，次优选择 [AIDA](https://www.aida64.com/downloads)
 * [HeidiSQL](https://www.heidisql.com/): 史上最小而强的性能优异的符合程序员需求的MySQL管理客户端后起之秀
 * [Idea](https://www.jetbrains.com/): 史上最强Java集成开发环境，社区版足够用了
 * [ImgBurn](https://www.imgburn.com/): 功能强大小巧的CD/DVD光盘镜像制作和刻录工具
