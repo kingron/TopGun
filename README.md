@@ -82,7 +82,10 @@
 甲之蜜糖，乙之砒霜，别人说好，其实不好的软件。
 
 - PowerToys: 功能是比较多，但是资源消耗极其巨大，内存消耗总量超过600M，但同样功能用 MouseGestureL 实现，却只占用 17MB 内存！
-
+- 360安全卫士，360杀毒等，任何360出的软件都不推荐
+- 2345系列软件
+- 鲁大师系列软件
+ 
 ## iOS - 苹果手机
 * [Documents](https://readdle.com/documents): 强大的手机文档和随身U盘工具
 * [Shadowrocket](https://apps.apple.com/ca/app/shadowrocket/id932747118): 优秀的原创无国界上网工具，独家支持https proxy，不可封杀，天下无敌
