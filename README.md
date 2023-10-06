@@ -8,6 +8,7 @@
 
 * [3proxy](https://github.com/3proxy/3proxy): 小巧强大低资源消耗的开源代理软件，次优选择[Privoxy](http://www.privoxy.org/)，企业级带缓存代理请使用 [Squid](https://wiki.squid-cache.org/)
 * [7-zip](https://www.7-zip.org): 最佳免费无广告高性能压缩软件，别再抱住 WinRar 的腿了
+* [Aircrack-ng](http://www.aircrack-ng.org/): 傻瓜式 WiFi 密码破解工具
 * [Active Directory 资源管理器](https://learn.microsoft.com/zh-cn/sysinternals/downloads/adexplorer): 最方便小巧强大的域资源管理器，域控管理员和开发必备工具
 * [AdBlock Plus](https://adblockplus.org/): 浏览器必备杀广告软件
 * [AnyDesk](https://www.anydesk.com): 优秀小巧的远程控屏工具，国内连接速度稍差，优选 6.2 以下版本，次优选择 [ToDesk](https://www.todesk.com/)
