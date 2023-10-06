@@ -29,11 +29,13 @@
 * [IrfanView](https://www.irfanview.com/): 小巧纯粹的看图神器，次优选择 [XnView](https://www.xnview.com)
 * [NetBeans](https://netbeans.apache.org/): 优秀的跨平台集成开发工具，支持各种语言，尤其适合远程开发和调测Linux
 * [NetBox IIS服务器](http://www.netbox.cn/): 史上最简单小巧的ASP/ASP.NET服务器，不用安装庞大复杂的IIS
+* [Nmap](https://nmap.org/zenmap/): 根据IP收集目标机器相关信息的工具，网管必备，也是黑人基本工具
 * [Notepad++](https://notepad-plus-plus.org/): 老牌免费开源且强大的纯文本编辑器，替代系统记事本好工具
 * [OBS-Studio](https://obsproject.com/): 免费开源的录屏和直播和视频线性编辑工具
 * [Pichon](https://icons8.com/): 成千上万矢量图标素材，免费版足够使用了
 * [Pointofix](https://www.pointofix.de/): 优秀的电子教鞭，屏幕共享、网课、教程录制好帮手和屏幕涂鸦工具，次优选择 [红烛电子教鞭](http://www.foredu.com/cn/)
 * [Process Explorer](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer): 史上最强的任务管理器，程序员必备利器，不会用它的程序员不是一个好程序员
+* [ProcMon](https://learn.microsoft.com/zh-cn/sysinternals/downloads/procmon): 可以监控任意程序的所有动作，程序任何小聪明都逃不过法眼，进程行为分析利器
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/): 小巧且强大的SSH和Telnet终端工具，支持SSH Tunnel隧道
 * [QQPlayer](https://player.qq.com/): 腾讯出品良心视频播放器，颜值、功能和易用性并存且无捆绑和广告，次优选择 [PotPlayer](https://potplayer.daum.net/)，次次优选择 [VLC Media Player](https://www.videolan.org/vlc/)
 * [QQ输入法](http://qq.pinyin.cn/): 搜狗输入法马化腾特供版，无广告、无捆绑、无隐私问题，Windows 10及以上版本次优选择系统自带的微软输入法
