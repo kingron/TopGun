@@ -20,6 +20,7 @@
 * [Foxmail](https://www.foxmail.com/): 简洁优秀的电子邮件客户端
 * [FRP](https://github.com/fatedier/frp): 强大的内网穿透工具，需要有个公网IP的服务器，但这里有个免费的可以服用 https://freefrp.net
 * [GifCam](https://blog.bahraniapps.com/gifcam/): 即开即用且可编辑的 GIF 动画录屏工具
+* [Google Earth](https://earth.google.com/web/): 上帝之眼，地表唯一最强虚拟地球仪、卫星图和地图工具，欢迎探索整个地球
 * [gost](https://github.com/ginuerzh/gost): 强大的网络代理和隧道工具
 * [HandBrake](https://handbrake.fr/): 最小巧的视频转码和VCD/DVD Ripper压缩工具
 * [HFS](http://www.rejetto.com/hfs/): 小白也会用的最简单小巧的自带图形管理界面的HTTP文件服务器
@@ -27,6 +28,7 @@
 * [HeidiSQL](https://www.heidisql.com/): 史上最小而强的性能优异的符合程序员需求的MySQL管理客户端后起之秀
 * [Idea](https://www.jetbrains.com/): 史上最强Java集成开发环境，社区版足够用了
 * [ImgBurn](https://www.imgburn.com/): 功能强大小巧的CD/DVD光盘镜像制作和刻录工具
+* [Inkscape](https://inkscape.org/): 优秀的矢量平面设计工具
 * [IrfanView](https://www.irfanview.com/): 小巧纯粹的看图神器，次优选择 [XnView](https://www.xnview.com)
 * [NetBeans](https://netbeans.apache.org/): 优秀的跨平台集成开发工具，支持各种语言，尤其适合远程开发和调测Linux
 * [NetBox IIS服务器](http://www.netbox.cn/): 史上最简单小巧的ASP/ASP.NET服务器，不用安装庞大复杂的IIS
@@ -66,6 +68,7 @@
 * [WizTree](https://diskanalyzer.com/): 史上最快且强大的磁盘用量分析工具
 * [网络调试助手](http://www.cmsoft.cn): 最简单小巧却功能多多的TCP/UDP 调测工具
 * [优效日历](https://www.youxiao.cn/): 漂亮且资源消耗低的强大的日历软件，次优选择 [梦畅闹钟，已停更](http://www.naozhong.net/)
+* [Zoom](https://www.zoom.us/): 优秀的视频会议和团队协作工作平台（免费版有40分钟限制，可重开使用），次优选择[腾讯会议](https://meeting.tencent.com/)
   
 ### 土豪版
 这里推荐的软件，优中选优，但氪金，体积也不一定小巧，但功能强大，性能优良。
