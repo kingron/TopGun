@@ -16,6 +16,7 @@
 * [Autoruns](https://learn.microsoft.com/zh-cn/sysinternals/downloads/autoruns): 史上最强的全方位无死角的自动启动管理工具
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html): 小巧的查看系统CPU硬件信息的工具
 * [Ditto](https://ditto-cp.sourceforge.io/): 最稳定强大的多重剪切板工具。次优选择 ~~[ClipX，已停更](http://clipx.org/)~~
+* [eMule](https://www.emule-project.com/): P2P鼻祖电驴的下载工具，专门P2P下载ED2K链接，这里有无穷无尽的小视频，光盘镜像，大型软件，电子书等等
 * [Everything](https://www.voidtools.com/): 史上最快的根据文件名查找磁盘文件的原创工具，其他快搜都是抄这个的
 * [FileZilla](https://filezilla-project.org/): 拳打FlashFXP脚踢CuteFTP，简洁强大的FTP/SFTP解决方案，包括FTP服务器和客户端，可分别安装
 * [Foobar2000](https://www.foobar2000.org/): 极致专注音乐本身的高性能低资源音乐播放器，次优选择 [Winamp](https://www.winamp.com/)
