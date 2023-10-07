@@ -34,6 +34,7 @@
 * [ImgBurn](https://www.imgburn.com/): 功能强大小巧的CD/DVD光盘镜像制作和刻录工具
 * [Inkscape](https://inkscape.org/): 优秀的矢量平面设计工具
 * [IrfanView](https://www.irfanview.com/): 小巧纯粹的看图神器，次优选择 [XnView](https://www.xnview.com)
+* [Neat Download Manager(NDM)](http://www.neatdownloadmanager.com/): 最精简小巧可替代IDM的下载工具，次优选择 [axel](https://github.com/axel-download-accelerator/axel)，次优选择 [Aria2](https://aria2.github.io/)
 * [NetBeans](https://netbeans.apache.org/): 优秀的跨平台集成开发工具，支持各种语言，尤其适合远程开发和调测Linux
 * [NetBox IIS服务器](http://www.netbox.cn/): 史上最简单小巧的ASP/ASP.NET服务器，不用安装庞大复杂的IIS
 * [Nmap](https://nmap.org/zenmap/): 根据IP收集目标机器相关信息的工具，网管必备，也是黑人基本工具
