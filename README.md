@@ -27,6 +27,7 @@
 * [Google Earth](https://earth.google.com/web/): 上帝之眼，地表唯一最强虚拟地球仪、卫星图和地图工具，欢迎探索整个地球
 * [gost](https://github.com/ginuerzh/gost): 强大的网络代理和隧道工具
 * [HandBrake](https://handbrake.fr/): 最小巧的视频转码和VCD/DVD Ripper压缩工具
+* [Hashcat](https://hashcat.net/hashcat/): 支持显卡加速的密码/Hash破解工具
 * [HFS](http://www.rejetto.com/hfs/): 小白也会用的最简单小巧的自带图形管理界面的HTTP文件服务器
 * [HxD](http://www.mh-nexus.de/): 史上最小巧清爽且高性能的十六进制编辑器，扔掉 WinHex 吧
 * [HWiNFO](https://www.hwinfo.com/download/): 系统硬件信息检测和报告工具，个人使用免费，次优选择 [AIDA](https://www.aida64.com/downloads)
