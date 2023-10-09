@@ -14,6 +14,7 @@
 * [AnyDesk](https://www.anydesk.com): 优秀小巧的远程控屏工具，国内连接速度稍差，优选 6.2 以下版本，次优选择 [ToDesk](https://www.todesk.com/)
 * [AutoHotKey](https://www.autohotkey.com): 强大的自动化键盘鼠标操作软件，可以参考这个 [MouseGestureL](https://github.com/kingron/MouseGestureL) 版，小巧但强大到令人发指。次优选择 [AutoIt](https://www.autoitscript.com)
 * [Autoruns](https://learn.microsoft.com/zh-cn/sysinternals/downloads/autoruns): 史上最强的全方位无死角的自动启动管理工具
+* [Captura](https://github.com/MathewSachin/Captura/releases): Windows 10下最小巧的录屏软件
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html): 小巧的查看系统CPU硬件信息的工具
 * [Ditto](https://ditto-cp.sourceforge.io/): 最稳定强大的多重剪切板工具。次优选择 ~~[ClipX，已停更](http://clipx.org/)~~
 * [eMule](https://www.emule-project.com/): P2P鼻祖电驴的下载工具，专门P2P下载ED2K链接，这里有无穷无尽的小视频，光盘镜像，大型软件，电子书等等
@@ -71,6 +72,7 @@
 * [WinSCP](https://winscp.net/): 好用的SFTP/SSH文件管理客户端工具
 * [Wireshark](https://www.wireshark.org/): 地表最强的全功能网络抓包和协议分析工具，支持抓取USB、蓝牙、WIFI等
 * [WizTree](https://diskanalyzer.com/): 史上最快且强大的磁盘用量分析工具
+* [Wox](https://github.com/Wox-launcher/Wox/releases): 程序体积小巧的启动神器，不过内存占用很大(500MB)以上
 * [网络调试助手](http://www.cmsoft.cn): 最简单小巧却功能多多的TCP/UDP 调测工具
 * [优效日历](https://www.youxiao.cn/): 漂亮且资源消耗低的强大的日历软件，次优选择 [梦畅闹钟，已停更](http://www.naozhong.net/)
 * [Zoom](https://www.zoom.us/): 优秀的视频会议和团队协作工作平台（免费版有40分钟限制，可重开使用），次优选择[腾讯会议](https://meeting.tencent.com/)
