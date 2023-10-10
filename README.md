@@ -82,6 +82,7 @@
 这里推荐的软件，优中选优，但氪金，体积也不一定小巧，但功能强大，性能优良。
 
 * [Camtasia](https://www.techsmith.com/): 专业好用的电脑录屏和视频编辑工具
+* [PasswordsPro](http://www.insidepro.com): 最好用的密码和哈希破解工具，次优选择 [Passware Password Recovery Kit](https://www.passware.com/)
 * [SnagIt](https://www.techsmith.com/): 史上最强和易用的截图和**面向对象**的编辑标注软件，任何标注上去东西可以随时重新编辑
 * [SQLyog](https://webyog.com/product/sqlyog/): 功能强大高效清爽的高性能MySQL客户端工具，次优选择 [NaviCat](https://navicat.com/)
 * [StylePix](https://www.hornil.com/en/stylepix/): 超轻量级类Photoshop图片编辑软件，普通人够用的图片处理软件，支持图层和滤镜，次优选择开源免费的 [GIMP](https://www.gimp.org/)
