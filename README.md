@@ -43,6 +43,7 @@
 * [Nmap](https://nmap.org/zenmap/): 根据IP收集目标机器相关信息的工具，网管必备，也是黑人基本工具
 * [Notepad++](https://notepad-plus-plus.org/): 老牌免费开源且强大的纯文本编辑器，替代系统记事本好工具
 * [OBS-Studio](https://obsproject.com/): 免费开源的录屏和直播和视频线性编辑工具
+* [PasteEx](https://github.com/huiyadanli/PasteEx/releases): 快速把剪切板内容粘贴为文件
 * [Pichon](https://icons8.com/): 成千上万矢量图标素材，免费版足够使用了
 * [Pointofix](https://www.pointofix.de/): 优秀的电子教鞭，屏幕共享、网课、教程录制好帮手和屏幕涂鸦工具，次优选择 [红烛电子教鞭](http://www.foredu.com/cn/)
 * [Process Explorer](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer): 史上最强的任务管理器，程序员必备利器，不会用它的程序员不是一个好程序员
