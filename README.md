@@ -18,6 +18,7 @@
 * [AutoHotKey](https://www.autohotkey.com): 强大的自动化键盘鼠标操作软件，可以参考这个 [MouseGestureL](https://github.com/kingron/MouseGestureL) 版，小巧但强大到令人发指。次优选择 [AutoIt](https://www.autoitscript.com)
 * [Autoruns](https://learn.microsoft.com/zh-cn/sysinternals/downloads/autoruns): 史上最强的全方位无死角的自动启动管理工具
 * [Captura](https://github.com/MathewSachin/Captura/releases): Windows 10下最小巧的录屏软件
+* [Chrome](https://www.google.com/chrome/): 谷歌原创的新一代的浏览器，次优选择 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html): 小巧的查看系统CPU硬件信息的工具
 * [Ditto](https://ditto-cp.sourceforge.io/): 最稳定强大的多重剪切板工具。次优选择 ~~[ClipX，已停更](http://clipx.org/)~~
 * [eMule](https://www.emule-project.com/): P2P鼻祖电驴的下载工具，专门P2P下载ED2K链接，这里有无穷无尽的小视频，光盘镜像，大型软件，电子书等等
