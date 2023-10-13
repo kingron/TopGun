@@ -56,6 +56,7 @@
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/): 小巧且强大的SSH和Telnet终端工具，支持SSH Tunnel隧道
 * [QQPlayer](https://player.qq.com/): 腾讯出品良心视频播放器，颜值、功能和易用性并存且无捆绑和广告，次优选择 [PotPlayer](https://potplayer.daum.net/)，次次优选择 [VLC Media Player](https://www.videolan.org/vlc/)
 * [QQ输入法](http://qq.pinyin.cn/): 搜狗输入法马化腾特供版，无广告、无捆绑、无隐私问题，Windows 10及以上版本次优选择系统自带的微软输入法
+* [Quicker](https://getquicker.net/): 强大的快捷操作工具，内存占用稍多
 * [Remapkey](https://hp.vector.co.jp/authors/VA000092/tools/): 不占任何资源的键盘按键重定义映射工具，[戳这里下载](https://mykb.cipindanci.com/archive/SuperKB/3449/Remapkey.exe)，次优选择[Key tweak](https://keytweak.softonic.com/)
 * [ResourceHacker](http://www.angusj.com/resourcehacker/): 史上最强可执行文件资源编辑工具，汉化、美化、破解等必备工具，次优选择已停更的 ~~exeScope~~
 * [Robo 3T](https://download.studio3t.com/robomongo/windows/robo3t-1.4.4-windows-x86_64-e6ac9ec5.zip): 小巧强大的 MongoDB 客户端原生工具，次优选择[MongoDB Compass](https://www.mongodb.com/products/tools/compass)
