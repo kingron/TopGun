@@ -1,9 +1,8 @@
 # TopGun
-那些年，大浪淘沙，我们用过的闪闪发光的极品软件
+那些年，大浪淘沙，我们用过的闪闪发光的极品软件和网站
 
 参阅:
 - https://github.com/Awesome-Windows/Awesome
-- https://msdn.itellyou.cn/
 
 ## Windows
 
@@ -46,6 +45,7 @@
 * [NetBox IIS服务器](http://www.netbox.cn/): 史上最简单小巧的ASP/ASP.NET服务器，不用安装庞大复杂的IIS
 * [Nmap](https://nmap.org/zenmap/): 根据IP收集目标机器相关信息的工具，网管必备，也是黑人基本工具
 * [Notepad++](https://notepad-plus-plus.org/): 老牌免费开源且强大的纯文本编辑器，替代系统记事本好工具
+* [Nox 夜神](https://www.yeshen.com/): 很棒的安卓模拟器，次优选择安卓Studio自带的模拟器
 * [OBS-Studio](https://obsproject.com/): 免费开源的录屏和直播和视频线性编辑工具
 * [PasteEx](https://github.com/huiyadanli/PasteEx/releases): 快速把剪切板内容粘贴为文件
 * [Pichon](https://icons8.com/): 成千上万矢量图标素材，免费版足够使用了
@@ -110,6 +110,15 @@
 * [Shadowrocket](https://apps.apple.com/ca/app/shadowrocket/id932747118): 优秀的原创无国界上网工具，独家支持https proxy，不可封杀，天下无敌
 
 ## Android - 安卓
+- [V2RayNG](https://github.com/2dust/v2rayNG): 安卓下好用的无国界上网工具，白嫖请戳 [Freefq](https://github.com/freefq/free)
 
 ## MacOS
 路人，无视MacOS
+
+## 网站
+- 微软MSDN原版下载: https://msdn.itellyou.cn/
+- 文字云: https://wordart.com/create
+- 强大的在线正则表达式工具: https://regex101.com/
+- 在线JSON编辑工具: https://jsoneditoronline.org/
+- 清爽的在线编辑HTML工具: https://reditor.puter.site/
+- 
