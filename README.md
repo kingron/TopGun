@@ -1,5 +1,8 @@
 # TopGun
 那些年，大浪淘沙，我们用过的闪闪发光的极品软件
+参阅:
+- https://github.com/Awesome-Windows/Awesome
+- https://msdn.itellyou.cn/
 
 ## Windows
 
