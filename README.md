@@ -80,6 +80,7 @@
 * [WinSCP](https://winscp.net/): 好用的SFTP/SSH文件管理客户端工具
 * [Wireshark](https://www.wireshark.org/): 地表最强的全功能网络抓包和协议分析工具，支持抓取USB、蓝牙、WIFI等
 * [WizTree](https://diskanalyzer.com/): 史上最快且强大的磁盘用量分析工具
+* [WPS Office](https://www.wps.com/): 最佳的替代微软Office的办公软件套件，个人版和小型团队免费使用，次优选择[Libra Office](https://www.libreoffice.org/)
 * [Wox](https://github.com/Wox-launcher/Wox/releases): 程序体积小巧的启动神器，不过内存占用很大(500MB)以上
 * [网络调试助手](http://www.cmsoft.cn): 最简单小巧却功能多多的TCP/UDP 调测工具
 * [优效日历](https://www.youxiao.cn/): 漂亮且资源消耗低的强大的日历软件，次优选择 [梦畅闹钟，已停更](http://www.naozhong.net/)
