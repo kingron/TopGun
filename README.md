@@ -15,6 +15,7 @@
 * [Active Directory 资源管理器](https://learn.microsoft.com/zh-cn/sysinternals/downloads/adexplorer): 最方便小巧强大的域资源管理器，域控管理员和开发必备工具
 * [AdBlock Plus](https://adblockplus.org/): 浏览器必备杀广告软件
 * [AnyDesk](https://www.anydesk.com): 优秀小巧的远程控屏工具，国内连接速度稍差，优选 6.2 以下版本，次优选择 [ToDesk](https://www.todesk.com/)
+* [Adnroid-X86](https://www.android-x86.org/): 直接在PC上安装或运行安卓系统
 * [AutoHotKey](https://www.autohotkey.com): 强大的自动化键盘鼠标操作软件，可以参考这个 [MouseGestureL](https://github.com/kingron/MouseGestureL) 版，小巧但强大到令人发指。次优选择 [AutoIt](https://www.autoitscript.com)
 * [Autoruns](https://learn.microsoft.com/zh-cn/sysinternals/downloads/autoruns): 史上最强的全方位无死角的自动启动管理工具
 * [Captura](https://github.com/MathewSachin/Captura/releases): Windows 10下最小巧的录屏软件
@@ -119,9 +120,6 @@
 ## Android - 安卓
 - [V2RayNG](https://github.com/2dust/v2rayNG): 安卓下好用的无国界上网工具，白嫖请戳 [Freefq](https://github.com/freefq/free)
 
-## MacOS
-路人，无视MacOS
-
 ## 神级网站
 - 微软MSDN原版下载: https://msdn.itellyou.cn/
 - 文字云: https://wordart.com/create
@@ -137,4 +135,9 @@
 - 电影种子站RARGB: https://rargb.to/
 - 全球最大种子站: https://tpbpirateproxy.org/
 - 24小时不间断纯流行音乐流媒体(瑞士流行音乐广播): https://www.radioswisspop.ch/en/
-- 
+- 互联网时光机，全球最大的互联网档案馆: https://archive.org/
+- 维基百科，全球最大的百科全书: https://www.wikipedia.org/
+- 全球最大的免费高质量图片资源共享网站: https://unsplash.com/
+- 即用即扔临时邮箱网站和匿名邮箱: https://www.yopmail.com/
+- 良心开源软件供应中心: https://www.fosshub.com/
+- 图床: 国内最好用的[路过图床](https://imgse.com), 国外老牌图床 [Imgur](https://imgur.com/upload)，[香港图床](https://upload.cc/)(封国区), [图片盒子](https://imgbox.com/) 
