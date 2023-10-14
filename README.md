@@ -122,10 +122,19 @@
 ## MacOS
 路人，无视MacOS
 
-## 网站
+## 神级网站
 - 微软MSDN原版下载: https://msdn.itellyou.cn/
 - 文字云: https://wordart.com/create
 - 强大的在线正则表达式工具: https://regex101.com/
 - 在线JSON编辑工具: https://jsoneditoronline.org/
 - 清爽的在线编辑HTML工具: https://reditor.puter.site/
+- 谷歌在线写作办公应用: https://docs.google.com/
+- 世界最大电子图书馆: https://zh.zlibrary-asia.se/
+- 代码高亮: https://highlightcode.com/
+- 匿名文件共享和传输: https://www.file.io/
+- 字母网站: http://assrt.net/
+- 在线甘特图: https://app.smartsheet.com/
+- 电影种子站RARGB: https://rargb.to/
+- 全球最大种子站: https://tpbpirateproxy.org/
+- 24小时不间断纯流行音乐流媒体(瑞士流行音乐广播): https://www.radioswisspop.ch/en/
 - 
