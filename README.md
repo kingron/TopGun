@@ -61,6 +61,7 @@
 * [Remapkey](https://hp.vector.co.jp/authors/VA000092/tools/): 不占任何资源的键盘按键重定义映射工具，[戳这里下载](https://mykb.cipindanci.com/archive/SuperKB/3449/Remapkey.exe)，次优选择[Key tweak](https://keytweak.softonic.com/)
 * [ResourceHacker](http://www.angusj.com/resourcehacker/): 史上最强可执行文件资源编辑工具，汉化、美化、破解等必备工具，次优选择已停更的 ~~exeScope~~
 * [Robo 3T](https://download.studio3t.com/robomongo/windows/robo3t-1.4.4-windows-x86_64-e6ac9ec5.zip): 小巧强大的 MongoDB 客户端原生工具，次优选择[MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+* [Simple Run Blocker](https://www.sordum.org/8486/simple-run-blocker-v1-5/): 简单易用的限制特定程序运行的小工具（只能限制文件名），家长可以用来限制孩子运行某些程序
 * [Scrcpy](https://github.com/Genymobile/scrcpy): 最简单小巧好用的电脑上连接安卓的控屏软件，安卓开发人员必备
 * [ScreenRuler](https://sourceforge.net/projects/screenruler/): 屏幕尺子，需要在屏幕上测量距离角度等数据的必备良品
 * [SQLiteStudio](https://sqlitestudio.pl/): 优秀的SQLite数据库管理客户端桌面应用
