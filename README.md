@@ -140,4 +140,7 @@
 - 全球最大的免费高质量图片资源共享网站: https://unsplash.com/
 - 即用即扔临时邮箱网站和匿名邮箱: https://www.yopmail.com/
 - 良心开源软件供应中心: https://www.fosshub.com/
-- 图床: 国内最好用的[路过图床](https://imgse.com), 国外老牌图床 [Imgur](https://imgur.com/upload)，[香港图床](https://upload.cc/)(封国区), [图片盒子](https://imgbox.com/) 
+- 图床: 国内最好用的[路过图床](https://imgse.com), 国外老牌图床 [Imgur](https://imgur.com/upload)，[香港图床](https://upload.cc/)(封国区), [图片盒子](https://imgbox.com/)
+- 课程网站: [中国大学慕课](https://www.icourse163.org/), [哈佛和麻省理工课程](https://www.edx.org/)
+- 世界名画: https://www.nbfox.com/
+- 
