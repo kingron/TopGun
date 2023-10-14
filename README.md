@@ -67,6 +67,7 @@
 * [SQLiteStudio](https://sqlitestudio.pl/): 优秀的SQLite数据库管理客户端桌面应用
 * [SamutraPDF](https://www.sumatrapdfreader.org/): 史上最快、最小、最纯的电子书阅读器，次优选择 Foxit PDF Reader 4.3.1版
 * [SmartSniff](https://www.nirsoft.net/utils/smsniff.html): 史上最简单小巧的网络抓包软件
+* [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu/releases): 给窗口的系统菜单增加置顶、透明等扩展功能的小工具
 * [Snipaste](https://www.snipaste.com/): 强悍的截图、**面向对象**的标注和贴图工具，次优选择 [ShareX](https://getsharex.com/)
 * [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif): Chrome/Edge下必备代理管理工具插件，利用自动切换模式可实现无痛上网
 * [TCPMapping](http://www.robot51.com/): 简单小巧的TCP端口映射器，[V2.02版](http://www.downcc.com/soft/162825.html)比较小巧，适合小型应用场合使用
