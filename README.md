@@ -75,6 +75,7 @@
 * [TCPMapping](http://www.robot51.com/): 简单小巧的TCP端口映射器，[V2.02版](http://www.downcc.com/soft/162825.html)比较小巧，适合小型应用场合使用
 * [TcpView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview): 简单小巧却强大的TCP/UDP网络连接查看和管理工具，程序员必备
 * [TFTP](http://tftpd32.jounin.net): 简单小巧的TFTP服务器
+* [TightVNC](https://www.tightvnc.com/): 免费轻量级高效稳定的类远程桌面解决方案，次优选择 [RealVNC](https://www.realvnc.com/)，网络上有WinVnc4版本下载，比较好用，次优选择 [UltraVNC](https://uvnc.com/)
 * [TortiesGit](https://tortoisegit.org/): 最友好易用的 GIT 客户端软件
 * [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): 好用的免费开源离线OCR，支持屏幕截图直接识别文字
 * [upx](https://upx.github.io/): 通用可执行文件压缩和加壳工具
