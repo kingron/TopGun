@@ -1,5 +1,5 @@
 # TopGun
-那些年，大浪淘沙，我们用过的闪闪发光的极品软件和网站
+那些年，大浪淘沙，我们亲测用过的闪闪发光的极品软件和网站
 
 参阅:
 - https://github.com/Awesome-Windows/Awesome
@@ -48,7 +48,7 @@
 * [Nmap](https://nmap.org/zenmap/): 根据IP收集目标机器相关信息的工具，网管必备，也是黑人基本工具
 * [Notepad++](https://notepad-plus-plus.org/): 老牌免费开源且强大的纯文本编辑器，替代系统记事本好工具
 * [Nox 夜神](https://www.yeshen.com/): 很棒的安卓模拟器，次优选择安卓Studio自带的模拟器
-* [OBS-Studio](https://obsproject.com/): 免费开源的录屏和直播和视频线性编辑工具
+* [OBS-Studio](https://obsproject.com/): 免费开源的录屏和直播和视频线性编辑工具，次优选择 [oCam](https://ohsoft.net/update/download.php) (个人免费，关闭时弹广告)
 * [PasteEx](https://github.com/huiyadanli/PasteEx/releases): 快速把剪切板内容粘贴为文件
 * [Pichon](https://icons8.com/): 成千上万矢量图标素材，免费版足够使用了
 * [Pointofix](https://www.pointofix.de/): 优秀的电子教鞭，屏幕共享、网课、教程录制好帮手和屏幕涂鸦工具，次优选择 [红烛电子教鞭](http://www.foredu.com/cn/)
@@ -126,7 +126,8 @@
 - 强大的在线正则表达式工具: https://regex101.com/
 - 在线JSON编辑工具: https://jsoneditoronline.org/
 - 清爽的在线编辑HTML工具: https://reditor.puter.site/
-- 谷歌在线写作办公应用: https://docs.google.com/
+- 谷歌在线写作办公应用: https://docs.google.com/ ，次优选择平替 [腾讯文档](https://docs.qq.com/)，[石墨文档](https://shimo.im/)，[伙伴云表格](https://app.huoban.com/)
+- 谷歌网盘: https://drive.google.com/ ，次优选择 [Dropbox]](https://www.dropbox.com/)
 - 世界最大电子图书馆: https://zh.zlibrary-asia.se/
 - 代码高亮: https://highlightcode.com/
 - 匿名文件共享和传输: https://www.file.io/
@@ -143,4 +144,5 @@
 - 图床: 国内最好用的[路过图床](https://imgse.com), 国外老牌图床 [Imgur](https://imgur.com/upload)，[香港图床](https://upload.cc/)(封国区), [图片盒子](https://imgbox.com/)
 - 课程网站: [中国大学慕课](https://www.icourse163.org/), [哈佛和麻省理工课程](https://www.edx.org/)
 - 世界名画: https://www.nbfox.com/
-- 
+- 墨刀，产品经理和UI设计必备: https://modao.cc/
+- 浏览器中的操作系统，可用来免费发布网站和内容，提供二级域名: https://puter.com/ 
