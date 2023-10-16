@@ -35,8 +35,9 @@
 * [Hashcat](https://hashcat.net/hashcat/): 支持显卡加速的密码/Hash破解工具，配套界面工具 [Hashcat GUI Toolkit](https://downloads.onworks.net/downloadapp/SOFTWARE/HashcatGUI.7z?service=service01)
 * [HFS](http://www.rejetto.com/hfs/): 小白也会用的最简单小巧的自带图形管理界面的HTTP文件服务器
 * [HxD](http://www.mh-nexus.de/): 史上最小巧清爽且高性能的十六进制编辑器，扔掉 WinHex 吧
-* [HWiNFO](https://www.hwinfo.com/download/): 系统硬件信息检测和报告工具，个人使用免费，次优选择 [AIDA](https://www.aida64.com/downloads)
 * [HeidiSQL](https://www.heidisql.com/): 史上最小而强的性能优异的符合程序员需求的MySQL管理客户端后起之秀
+* [HttpPie](https://httpie.io/): HTTP/HTTPS API 接口测试工具，次优选择 [PostMan](https://www.postman.com/)
+* [HWiNFO](https://www.hwinfo.com/download/): 系统硬件信息检测和报告工具，个人使用免费，次优选择 [AIDA](https://www.aida64.com/downloads)
 * [Idea](https://www.jetbrains.com/): 史上最强Java集成开发环境，社区版足够用了
 * [ImgBurn](https://www.imgburn.com/): 功能强大小巧的CD/DVD光盘镜像制作和刻录工具
 * [Inkscape](https://inkscape.org/): 优秀的矢量平面设计工具
