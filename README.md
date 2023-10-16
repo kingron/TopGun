@@ -135,7 +135,7 @@
 - 世界最大电子图书馆: https://zh.zlibrary-asia.se/
 - 代码高亮: https://highlightcode.com/
 - 匿名文件共享和传输: https://www.file.io/
-- 字母网站: http://assrt.net/
+- 字幕网站: http://assrt.net/
 - 在线甘特图: https://app.smartsheet.com/
 - 电影种子站RARGB: https://rargb.to/
 - 全球最大种子站: https://tpbpirateproxy.org/
