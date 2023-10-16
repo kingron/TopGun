@@ -132,7 +132,7 @@
 - 在线JSON编辑工具: https://jsoneditoronline.org/
 - 清爽的在线编辑HTML工具: https://reditor.puter.site/
 - 谷歌在线写作办公应用: https://docs.google.com/ ，次优选择平替 [腾讯文档](https://docs.qq.com/)，[石墨文档](https://shimo.im/)，[伙伴云表格](https://app.huoban.com/)
-- 谷歌网盘: https://drive.google.com/ ，次优选择 [Dropbox]](https://www.dropbox.com/)
+- 谷歌网盘: https://drive.google.com/ ，次优选择 [Dropbox](https://www.dropbox.com/)
 - 世界最大电子图书馆: https://zh.zlibrary-asia.se/
 - 代码高亮: https://highlightcode.com/
 - 匿名文件共享和传输: https://www.file.io/
