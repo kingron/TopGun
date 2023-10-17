@@ -157,4 +157,4 @@
 - 免安装免注册在线画流程图(draw.io): https://app.diagrams.net/
 - 免费高质量电子书: https://github.com/justjavac/free-programming-books-zh_CN
 - 一看就喜欢的高大上的神一般的天气网站: https://www.ventusky.com/
-- 
+- 免安装免注册，即开即用局域网内传输文件: [Snapdrop](https://github.com/RobinLinus/snapdrop)，免费服务器一枚: https://drop.ioiox.com/
