@@ -7,7 +7,7 @@
 ## Windows
 
 ### 免费版
-推荐的每一个软件，截止到2023-10-01，都是精挑细选万中无一的软海遗珠，且无广告、不流氓、冇捆绑，小而强，好用不悔。
+推荐的每一个软件，截止到2023-10-17，都是精挑细选万中无一的软海遗珠，且无广告、不流氓、冇捆绑，小而强，好用不悔。
 
 * [3proxy](https://github.com/3proxy/3proxy): 小巧强大低资源消耗的开源代理软件，次优选择[Privoxy](http://www.privoxy.org/)，企业级带缓存代理请使用 [Squid](https://wiki.squid-cache.org/)
 * [7-zip](https://www.7-zip.org): 最佳免费无广告高性能压缩软件，别再抱住 WinRar 的腿了
@@ -126,11 +126,11 @@
 ## 神级网站
 - 微软MSDN原版下载: https://msdn.itellyou.cn/
 - 全球第二大安卓站: https://apkpure.com/
-- 文字云: https://wordart.com/create
+- 文字云: https://wordart.com/create , 球形可交互文字云[Word ball](https://wordball.puter.site/)
 - 网页制作技术教学和教程: https://www.w3school.com.cn/
 - 强大的在线正则表达式工具: https://regex101.com/
 - 在线JSON编辑工具: https://jsoneditoronline.org/
-- 清爽的在线编辑HTML工具: https://reditor.puter.site/
+- 清爽的在线编辑HTML工具: https://reditor.puter.site/ , 另外一个[HTML 在线编辑](https://heditor.puter.site/)
 - 谷歌在线写作办公应用: https://docs.google.com/ ，次优选择平替 [腾讯文档](https://docs.qq.com/)，[石墨文档](https://shimo.im/)，[伙伴云表格](https://app.huoban.com/)
 - 谷歌网盘: https://drive.google.com/ ，次优选择 [Dropbox](https://www.dropbox.com/)
 - 世界最大电子图书馆: https://zh.zlibrary-asia.se/
@@ -149,5 +149,10 @@
 - 图床: 国内最好用的[路过图床](https://imgse.com), 国外老牌图床 [Imgur](https://imgur.com/upload)，[香港图床](https://upload.cc/)(封国区), [图片盒子](https://imgbox.com/)
 - 课程网站: [中国大学慕课](https://www.icourse163.org/), [哈佛和麻省理工课程](https://www.edx.org/)
 - 世界名画: https://www.nbfox.com/
-- 墨刀，产品经理和UI设计必备: https://modao.cc/
-- 浏览器中的操作系统，可用来免费发布网站和内容，提供二级域名: https://puter.com/ 
+- 产品经理和UI设计必备 - 墨刀(已开始堕落): https://modao.cc/
+- 浏览器中的操作系统，可用来免费发布网站和内容，提供二级域名: https://puter.com/
+- 在线编译运行各种语言: [https://www.json.cn/](https://www.json.cn/runcode/)
+- 在线SVG编辑器: https://c.runoob.com/more/svgeditor/
+- 免安装免注册在线画流程图(draw.io): https://app.diagrams.net/
+- 免费高质量电子书: https://github.com/justjavac/free-programming-books-zh_CN
+- 
