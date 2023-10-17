@@ -1,8 +1,7 @@
 # TopGun
 那些年，大浪淘沙，我们亲测用过的闪闪发光的极品软件和网站
 
-参阅:
-- https://github.com/Awesome-Windows/Awesome
+参阅: https://github.com/Awesome-Windows/Awesome
 
 ## Windows
 
@@ -120,13 +119,14 @@
 ## iOS - 苹果手机
 * [Documents](https://readdle.com/documents): 强大的手机文档和随身U盘工具
 * [Shadowrocket](https://apps.apple.com/ca/app/shadowrocket/id932747118): 优秀的原创无国界上网工具，独家支持https proxy，不可封杀，天下无敌
+* [扫描全能王CamScanner](https://apps.apple.com/cn/app/扫描全能王-手机扫描仪-pdf图片转文字/id388627783): 很好用的手机扫描软件，免费版足够强大
 
 ## Android - 安卓
 - [V2RayNG](https://github.com/2dust/v2rayNG): 安卓下好用的无国界上网工具，白嫖请戳 [Freefq](https://github.com/freefq/free)
 
 ## 神级网站
 - 微软MSDN原版下载: https://msdn.itellyou.cn/
-- 全球第二大安卓站: https://apkpure.com/
+- 全球第二大安卓站免安装免注册直接下APK: https://apkpure.com/
 - 文字云: https://wordart.com/create , 球形可交互文字云[Word ball](https://wordball.puter.site/)
 - 网页制作技术教学和教程: https://www.w3school.com.cn/
 - 强大的在线正则表达式工具: https://regex101.com/
@@ -137,14 +137,14 @@
 - 世界最大电子图书馆: https://zh.zlibrary-asia.se/
 - 代码高亮: https://highlightcode.com/
 - 匿名文件共享和传输: https://www.file.io/
-- 字幕网站: http://assrt.net/
+- 字幕网站: http://assrt.net/ , 次优选择: https://subhd.tv/
 - 在线甘特图: https://app.smartsheet.com/
 - 电影种子站RARGB: https://rargb.to/
 - 全球最大种子站: https://tpbpirateproxy.org/
 - 24小时不间断纯流行音乐流媒体(瑞士流行音乐广播): https://www.radioswisspop.ch/en/
 - 互联网时光机，全球最大的互联网档案馆: https://archive.org/
 - 维基百科，全球最大的百科全书: https://www.wikipedia.org/
-- 全球最大的免费高质量图片资源共享网站: https://unsplash.com/
+- 全球最大的免费高质量图片资源共享网站: [Unsplash](https://unsplash.com/)，次优选择 [Pixabay](https://pixabay.com/)
 - 即用即扔临时邮箱网站和匿名邮箱: https://www.yopmail.com/
 - 良心开源软件供应中心: https://www.fosshub.com/
 - 图床: 国内最好用的[路过图床](https://imgse.com), 国外老牌图床 [Imgur](https://imgur.com/upload)，[香港图床](https://upload.cc/)(封国区), [图片盒子](https://imgbox.com/)
@@ -156,4 +156,5 @@
 - 在线SVG编辑器: https://c.runoob.com/more/svgeditor/
 - 免安装免注册在线画流程图(draw.io): https://app.diagrams.net/
 - 免费高质量电子书: https://github.com/justjavac/free-programming-books-zh_CN
+- 一看就喜欢的高大上的神一般的天气网站: https://www.ventusky.com/
 - 
