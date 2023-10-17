@@ -161,3 +161,4 @@
 - 免费高质量电子书: https://github.com/justjavac/free-programming-books-zh_CN
 - 一看就喜欢的高大上的神一般的天气网站: https://www.ventusky.com/
 - 即开即用同网段内传输文件: [Snapdrop](https://github.com/RobinLinus/snapdrop)，免费服务器一枚: https://drop.ioiox.com/
+- 免费代理服务器列表: https://cn.proxy-tools.com/
