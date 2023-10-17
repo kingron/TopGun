@@ -137,7 +137,7 @@
 - 世界最大电子图书馆: https://zh.zlibrary-asia.se/
 - 代码高亮: https://highlightcode.com/
 - 匿名文件共享和传输: https://www.file.io/
-- 字幕网站: http://assrt.net/ , 次优选择: https://subhd.tv/
+- 字幕网站: [射手网(伪)](http://assrt.net/), 次优选择: [字幕库](https://zimuku.org/)，[SubHD](https://subhd.tv/)
 - 在线甘特图: https://app.smartsheet.com/
 - 电影种子站RARGB: https://rargb.to/
 - 全球最大种子站: https://tpbpirateproxy.org/
