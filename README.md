@@ -42,7 +42,7 @@
 * [Inkscape](https://inkscape.org/): 优秀的矢量平面设计工具
 * [IrfanView](https://www.irfanview.com/): 小巧纯粹的看图神器，次优选择 [XnView](https://www.xnview.com)
 * [Java Decompiler](http://java-decompiler.github.io/): 好用的Java反编译工具
-* [简单投屏](https://meta.appinn.net/t/topic/42035): 最小巧简单的投影视频到电视的工具
+* [简单投屏](https://meta.appinn.net/t/topic/42035): 最小巧简单的投影视频到智能电视的工具，需要电视机支持DLNA协议
 * [mLogCat](https://mlogcat.tistory.com/): Windows下连接安卓手机查看日志最好用、小巧的工具（需要adb支持）
 * [Neat Download Manager(NDM)](http://www.neatdownloadmanager.com/): 最精简小巧可替代IDM的下载工具，次优选择 [axel](https://github.com/axel-download-accelerator/axel)，次优选择 [Aria2](https://aria2.github.io/)
 * [NetBeans](https://netbeans.apache.org/): 优秀的跨平台集成开发工具，支持各种语言，尤其适合远程开发和调测Linux
