@@ -57,6 +57,7 @@
 * [Pointofix](https://www.pointofix.de/): 优秀的电子教鞭，屏幕共享、网课、教程录制好帮手和屏幕涂鸦工具，次优选择 [红烛电子教鞭](http://www.foredu.com/cn/)
 * [Process Explorer](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer): 史上最强的任务管理器，程序员必备利器，不会用它的程序员不是一个好程序员
 * [ProcMon](https://learn.microsoft.com/zh-cn/sysinternals/downloads/procmon): 可以监控任意程序的所有动作，程序任何小聪明都逃不过法眼，进程行为分析利器
+* [ProxyTester](https://sourceforge.net/projects/proxytest/): 根据代理服务器IP:port列表文件和URL地址，测试代理服务器是否工作的工具
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/): 小巧且强大的SSH和Telnet终端工具，支持SSH Tunnel隧道
 * [QQPlayer](https://player.qq.com/): 腾讯出品良心视频播放器，颜值、功能和易用性并存且无捆绑和广告，次优选择 [PotPlayer](https://potplayer.daum.net/)，次次优选择 [VLC Media Player](https://www.videolan.org/vlc/)
 * [QQ输入法](http://qq.pinyin.cn/): 搜狗输入法马化腾特供版，无广告、无捆绑、无隐私问题，Windows 10及以上版本次优选择系统自带的微软输入法
