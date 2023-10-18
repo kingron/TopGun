@@ -23,6 +23,7 @@
 * [Ditto](https://ditto-cp.sourceforge.io/): 最稳定强大的多重剪切板工具。次优选择 ~~[ClipX，已停更](http://clipx.org/)~~
 * [eMule](https://www.emule-project.com/): P2P鼻祖电驴的下载工具，专门P2P下载ED2K链接，这里有无穷无尽的小视频，光盘镜像，大型软件，电子书等等
 * [Everything](https://www.voidtools.com/): 史上最快的根据文件名查找磁盘文件的原创工具，其他快搜都是抄这个的
+* [Fiddler](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe): 小巧轻便的TCP/IP Socket 和 HTTP/HTTPS API测试工具(轻量级的PostMan)，支持抓包分析
 * [FileZilla](https://filezilla-project.org/): 拳打FlashFXP脚踢CuteFTP，简洁强大的FTP/SFTP解决方案，包括FTP服务器和客户端，可分别安装
 * [Foobar2000](https://www.foobar2000.org/): 极致专注音乐本身的高性能低资源音乐播放器，次优选择 [Winamp](https://www.winamp.com/)
 * [Foxmail](https://www.foxmail.com/): 简洁优秀的电子邮件客户端
