@@ -90,6 +90,7 @@
 * [VisualSubSync](http://www.visualsubsync.org/): 小巧优秀的视频独立外挂字幕编辑工具
 * [VMWare Workstaion Player](https://www.vmware.com/): 老牌优秀的虚拟机工具，次优选择[Virtual Box](https://www.virtualbox.org/)
 * [Wavosaur](https://www.wavosaur.com/): 史上最小巧的音频编辑软件，次优选择 [Audacity](https://www.audacityteam.org/)
+* [WinMerge](https://winmerge.org/): 强大的文件比对和合并工具，支持图片，表格，文本，次优选择史上最小巧轻便的比对工具 [TextDiff](https://angusj.com/delphi/textdiff.html)
 * [WinSCP](https://winscp.net/): 好用的SFTP/SSH文件管理客户端工具
 * [Wireshark](https://www.wireshark.org/): 地表最强的全功能网络抓包和协议分析工具，支持抓取USB、蓝牙、WIFI等
 * [WizTree](https://diskanalyzer.com/): 史上最快且强大的磁盘用量分析工具
@@ -108,8 +109,8 @@
 * [SQLyog](https://webyog.com/product/sqlyog/): 功能强大高效清爽的高性能MySQL客户端工具，次优选择 [NaviCat](https://navicat.com/)
 * [StylePix](https://www.hornil.com/en/stylepix/): 超轻量级类Photoshop图片编辑软件，普通人够用的图片处理软件，支持图层和滤镜，次优选择开源免费的 [GIMP](https://www.gimp.org/)
 * [TeamViewer](https://www.teamviewer.com/): 老牌的最简单易用的远程控屏工具，乞丐版有时间限制
-* [WinRar](https://www.winrar.com): 压缩软件，需要注册，国内版可免费但有广告
 * [UltraEdit](https://www.ultraedit.com/): 强大的文本和十六进制编辑工具，注册收费
+* [WinRar](https://www.winrar.com): 压缩软件，需要注册，国内版可免费但有广告
 * [遥志代理服务器(CCProxy)](http://www.ccproxy.com/):  简单小巧易用且强大的的带GUI管理界面的代理软件，可选 [WinGate](https://www.wingate.com/)
 
 ### 不推荐的软件
