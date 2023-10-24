@@ -76,6 +76,7 @@
 * [SmartSniff](https://www.nirsoft.net/utils/smsniff.html): 史上最简单小巧的网络抓包软件
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu/releases): 给窗口的系统菜单增加置顶、透明等扩展功能的小工具
 * [Snipaste](https://www.snipaste.com/): 强悍的截图、**面向对象**的标注和贴图工具，次优选择 [ShareX](https://getsharex.com/)
+* [Stunnel](https://www.stunnel.org/docs.html): 在不修改程序代码的情况下，在客户都安和服务器端提供安全连接隧道功能，保护未支持安全传输的程序数据。
 * [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif): Chrome/Edge下必备代理管理工具插件，利用自动切换模式可实现无痛上网
 * [TCPMapping](http://www.robot51.com/): 简单小巧的TCP端口映射器，[V2.02版](http://www.downcc.com/soft/162825.html)比较小巧，适合小型应用场合使用
 * [TcpView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview): 简单小巧却强大的TCP/UDP网络连接查看和管理工具，程序员必备
