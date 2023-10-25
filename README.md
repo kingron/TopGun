@@ -134,6 +134,7 @@
 ## 神级网站
 
 - 微软MSDN原版下载: https://msdn.itellyou.cn/
+- 学语言的网站: https://www.duolingo.com/
 - Radio Garden，想听哪里听哪里的全球广播电台: http://radio.garden/
 - 温特大学业余无线电，可视化全频谱软件无线电: http://websdr.ewi.utwente.nl:8901/
 - DeepL，在线翻译网站: https://www.deepl.com/translator
