@@ -132,7 +132,9 @@
 - [V2RayNG](https://github.com/2dust/v2rayNG): 安卓下好用的无国界上网工具，白嫖请戳 [Freefq](https://github.com/freefq/free)
 
 ## 神级网站
+
 - 微软MSDN原版下载: https://msdn.itellyou.cn/
+- DeepL，在线翻译网站: https://www.deepl.com/translator
 - 全球第二大安卓站免安装免注册直接下APK: https://apkpure.com/
 - 文字云: https://wordart.com/create , 球形可交互文字云[Word ball](https://wordball.puter.site/)
 - 网页制作技术教学和教程: https://www.w3school.com.cn/
