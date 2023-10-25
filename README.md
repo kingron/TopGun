@@ -134,6 +134,8 @@
 ## 神级网站
 
 - 微软MSDN原版下载: https://msdn.itellyou.cn/
+- Radio Garden，想听哪里听哪里的全球广播电台: http://radio.garden/
+- 温特大学业余无线电，可视化全频谱软件无线电: http://websdr.ewi.utwente.nl:8901/
 - DeepL，在线翻译网站: https://www.deepl.com/translator
 - 全球第二大安卓站免安装免注册直接下APK: https://apkpure.com/
 - 文字云: https://wordart.com/create , 球形可交互文字云[Word ball](https://wordball.puter.site/)
@@ -166,5 +168,5 @@
 - 免安装免注册在线画流程图(draw.io): https://app.diagrams.net/
 - 免费高质量电子书: https://github.com/justjavac/free-programming-books-zh_CN
 - 一看就喜欢的高大上的神一般的天气网站: https://www.ventusky.com/
-- 即开即用同网段内传输文件: [Snapdrop](https://github.com/RobinLinus/snapdrop)，免费服务器一枚: https://drop.ioiox.com/
+- 即开即用同网段内传输文件: [Snapdrop](https://github.com/RobinLinus/snapdrop)，[官网](https://snapdrop.net/)，免费服务器一枚: https://drop.ioiox.com/
 - 免费代理服务器列表: https://cn.proxy-tools.com/ ， https://www.proxyscrape.com ， https://www.proxy-list.download/ ， https://www.aliveproxy.com/
