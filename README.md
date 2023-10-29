@@ -173,3 +173,5 @@
 - 免费代理服务器列表: https://cn.proxy-tools.com/ ， https://www.proxyscrape.com ， https://www.proxy-list.download/ ， https://www.aliveproxy.com/
 - 在线工具箱: https://tool.lu/
 - 在线PS: https://www.photopea.com/
+- 小微和个人建站利器: https://www.squarespace.com/
+- 百度脑图，简单好用: https://naotu.baidu.com/
