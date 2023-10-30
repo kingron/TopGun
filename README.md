@@ -177,3 +177,7 @@
 - 小微和个人建站利器: https://www.squarespace.com/
 - 百度脑图，简单好用: https://naotu.baidu.com/
 - 免费次抛代收注册码: https://www.storytrain.info/
+- 全历史，有趣的历史知识网站: https://www.allhistory.com/
+- 免注册阅后即焚私信网站: https://privnote.com/
+- 全球著名景点全景网: https://www.airpano.com/
+- 
