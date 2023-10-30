@@ -65,6 +65,7 @@
 * [QQ输入法](http://qq.pinyin.cn/): 搜狗输入法马化腾特供版，无广告、无捆绑、无隐私问题，Windows 10及以上版本次优选择系统自带的微软输入法
 * [Quicker](https://getquicker.net/): 强大的快捷操作工具，内存占用稍多
 * [Recuva](https://www.ccleaner.com/zh-cn/recuva): 简洁的个人和家庭使用免费的文件反删除恢复工具
+* [RedisStudio](https://github.com/cinience/RedisStudio): 轻巧快速的Redis客户端工具，备选方案 [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 * [Redmine](https://www.redmine.org/): 个人认为史上最强、最符合人性、最简洁干练的项目管理系统，利用 [Bitnami](https://redminecn.com/wikis/bitnami-redmine-installation) 可一键部署
 * [Remapkey](https://hp.vector.co.jp/authors/VA000092/tools/): 不占任何资源的键盘按键重定义映射工具，[戳这里下载](https://mykb.cipindanci.com/archive/SuperKB/3449/Remapkey.exe)，次优选择[Key tweak](https://keytweak.softonic.com/)
 * [ResourceHacker](http://www.angusj.com/resourcehacker/): 史上最强可执行文件资源编辑工具，汉化、美化、破解等必备工具，次优选择已停更的 ~~exeScope~~
@@ -157,7 +158,7 @@
 - 互联网时光机，全球最大的互联网档案馆: https://archive.org/
 - 维基百科，全球最大的百科全书: https://www.wikipedia.org/
 - 全球最大的免费高质量图片资源共享网站: [Unsplash](https://unsplash.com/)，次优选择 [Pixabay](https://pixabay.com/)
-- 即用即扔临时邮箱网站和匿名邮箱: https://www.yopmail.com/
+- 次抛临时匿名邮箱: https://www.yopmail.com/
 - 良心开源软件供应中心: https://www.fosshub.com/
 - 图床: 国内最好用的[路过图床](https://imgse.com), 国外老牌图床 [Imgur](https://imgur.com/upload)，[香港图床](https://upload.cc/)(封国区), [图片盒子](https://imgbox.com/)
 - 课程网站: [中国大学慕课](https://www.icourse163.org/), [哈佛和麻省理工课程](https://www.edx.org/)
@@ -175,3 +176,4 @@
 - 在线PS: https://www.photopea.com/
 - 小微和个人建站利器: https://www.squarespace.com/
 - 百度脑图，简单好用: https://naotu.baidu.com/
+- 免费次抛代收注册码: https://www.storytrain.info/
