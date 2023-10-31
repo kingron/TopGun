@@ -1,6 +1,6 @@
 # TopGun
 
-| 那些年，大浪淘沙，我们亲测用过的闪闪发光的极品软件和网站<br/>参阅: https://github.com/Awesome-Windows/Awesome | <img src="https://source.unsplash.com/featured/?cute-kitten" width=100 height=100> |
+| 那些年，大浪淘沙，我们亲测用过的闪闪发光的极品软件和网站<br/>参阅: https://github.com/Awesome-Windows/Awesome | <img src="https://source.unsplash.com/random/featured/?cute-kitten" width=100 height=100> |
 | :------ | ------: |
 
 
