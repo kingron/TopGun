@@ -31,7 +31,6 @@
 * [Foobar2000](https://www.foobar2000.org/): 极致专注音乐本身的高性能低资源音乐播放器，次优选择 [Winamp](https://www.winamp.com/)
 * [Foxmail](https://www.foxmail.com/): 简洁优秀的电子邮件客户端
 * [FRP](https://github.com/fatedier/frp): 强大的内网穿透工具，需要有个公网IP的服务器，但这里有个免费的可以服用 https://freefrp.net
-* [GifCam](https://blog.bahraniapps.com/gifcam/): 即开即用且可编辑的 GIF 动画录屏工具
 * [Google Earth](https://earth.google.com/web/): 上帝之眼，地表唯一最强虚拟地球仪、卫星图和地图工具，欢迎探索整个地球
 * [gost](https://github.com/ginuerzh/gost): 强大的网络代理和隧道工具
 * [HandBrake](https://handbrake.fr/): 最小巧的视频转码和VCD/DVD Ripper压缩工具
@@ -75,6 +74,7 @@
 * [Simple Run Blocker](https://www.sordum.org/8486/simple-run-blocker-v1-5/): 简单易用的限制特定程序运行的小工具（只能限制文件名），家长可以用来限制孩子运行某些程序
 * [Scrcpy](https://github.com/Genymobile/scrcpy): 最简单小巧好用的电脑上连接安卓的控屏软件，安卓开发人员必备
 * [ScreenRuler](https://sourceforge.net/projects/screenruler/): 屏幕尺子，需要在屏幕上测量距离角度等数据的必备良品
+* [ScreenToGif](https://www.screentogif.com/): 强大的屏幕录制GIF动画和编辑的工具，次优选择 [GifCam](https://blog.bahraniapps.com/gifcam/)
 * [SQLiteStudio](https://sqlitestudio.pl/): 优秀的SQLite数据库管理客户端桌面应用
 * [SamutraPDF](https://www.sumatrapdfreader.org/): 史上最快、最小、最纯的电子书阅读器，次优选择 Foxit PDF Reader 4.3.1版
 * [SmartSniff](https://www.nirsoft.net/utils/smsniff.html): 史上最简单小巧的网络抓包软件
