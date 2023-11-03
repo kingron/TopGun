@@ -76,7 +76,7 @@
 * [ScreenRuler](https://sourceforge.net/projects/screenruler/): 屏幕尺子，需要在屏幕上测量距离角度等数据的必备良品
 * [ScreenToGif](https://www.screentogif.com/): 强大的屏幕录制GIF动画和编辑的工具，次优选择 [GifCam](https://blog.bahraniapps.com/gifcam/)
 * [Simple Run Blocker](https://www.sordum.org/8486/simple-run-blocker-v1-5/): 简单易用的限制特定程序运行的小工具（只能限制文件名），家长可以用来限制孩子运行某些程序
-* [SocksCap](https://www.sockscap64.com/sockscap-64-free-download-zh-hans/): 通过Hook让不支持代理的程序无需任何修改即可支持代理，对于一些老旧软件来说是福音
+* ~~[SocksCap](https://www.sockscap64.com/sockscap-64-free-download-zh-hans/): 通过Hook让不支持代理的程序无需任何修改即可支持代理，对于一些老旧软件来说是福音~~ Windows 10下测试不成功
 * [SQLiteStudio](https://sqlitestudio.pl/): 优秀的SQLite数据库管理客户端桌面应用
 * [SmartSniff](https://www.nirsoft.net/utils/smsniff.html): 史上最简单小巧的网络抓包软件
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu/releases): 给窗口的系统菜单增加置顶、透明等扩展功能的小工具
