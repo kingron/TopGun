@@ -102,6 +102,7 @@
 * [Wox](https://github.com/Wox-launcher/Wox/releases): 程序体积小巧的启动神器，不过内存占用很大(500MB)以上
 * [网络调试助手](http://www.cmsoft.cn): 最简单小巧却功能多多的TCP/UDP 调测工具
 * [优效日历](https://www.youxiao.cn/): 漂亮且资源消耗低的强大的日历软件，次优选择 [梦畅闹钟，已停更](http://www.naozhong.net/)
+* [XDown](https://xdown.org/): 清爽无广告的IDM与BT合体的FTP/HTTP/HTTPS、STTP和BT的万能下载工具
 * [Zoom](https://www.zoom.us/): 优秀的视频会议和团队协作工作平台（免费版有40分钟限制，可重开使用），次优选择[腾讯会议](https://meeting.tencent.com/)
   
 ### 土豪版
