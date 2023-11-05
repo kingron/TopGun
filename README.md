@@ -135,6 +135,7 @@
 
 ## Android - 安卓
 - [V2RayNG](https://github.com/2dust/v2rayNG): 安卓下好用的无国界上网工具，白嫖请戳 [Freefq](https://github.com/freefq/free)
+- [Legado - 开源阅读](https://github.com/gedoor/legado): 纯粹的电子书阅读软件，支持局域网HTTP传书，支持许多订阅书源
 
 ## 神级网站
 
