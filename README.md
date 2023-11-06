@@ -55,6 +55,7 @@
 * [Notepad++](https://notepad-plus-plus.org/): 老牌免费开源且强大的纯文本编辑器，替代系统记事本好工具
 * [Nox 夜神](https://www.yeshen.com/): 很棒的安卓模拟器，次优选择安卓Studio自带的模拟器
 * [OBS-Studio](https://obsproject.com/): 免费开源的录屏和直播和视频线性编辑工具，次优选择 [oCam](https://ohsoft.net/update/download.php) (个人免费，关闭时弹广告)
+* [One Key - OK插件](http://oktools.xyz/): Power Point必备插件
 * [PasteEx](https://github.com/huiyadanli/PasteEx/releases): 快速把剪切板内容粘贴为文件
 * [Pichon](https://icons8.com/): 成千上万矢量图标素材，免费版足够使用了
 * [Pointofix](https://www.pointofix.de/): 优秀的电子教鞭，屏幕共享、网课、教程录制好帮手和屏幕涂鸦工具，次优选择 [红烛电子教鞭](http://www.foredu.com/cn/)
