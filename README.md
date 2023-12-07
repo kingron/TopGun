@@ -146,11 +146,11 @@
 - 温特大学业余无线电，可视化全频谱软件无线电: http://websdr.ewi.utwente.nl:8901/
 - DeepL，在线翻译网站: https://www.deepl.com/translator
 - 全球第二大安卓站免安装免注册直接下APK: https://apkpure.com/
-- 文字云: https://wordart.com/create , 球形可交互文字云[Word ball](https://wordball.puter.site/)
+- 文字云: https://wordart.com/create , 球形可交互文字云[Word ball](https://wordball..site/)
 - 网页制作技术教学和教程: https://www.w3school.com.cn/
 - 强大的在线正则表达式工具: https://regex101.com/
 - 在线JSON编辑工具: https://jsoneditoronline.org/
-- 清爽的在线编辑HTML工具: https://reditor.puter.site/ , 另外一个[HTML 在线编辑](https://heditor.puter.site/)
+- [清爽的在线编辑HTML工具](https://puter.com/app/word), 另外一个[HTML 在线编辑](https://heditor.puter.site/)
 - 谷歌在线写作办公应用: https://docs.google.com/ ，次优选择平替 [腾讯文档](https://docs.qq.com/)，[石墨文档](https://shimo.im/)，[伙伴云表格](https://app.huoban.com/)
 - 谷歌网盘: https://drive.google.com/ ，次优选择 [Dropbox](https://www.dropbox.com/)
 - 世界最大电子图书馆: https://zh.zlibrary-asia.se/
