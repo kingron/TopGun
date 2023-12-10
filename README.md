@@ -170,7 +170,7 @@
 - 课程网站: [中国大学慕课](https://www.icourse163.org/), [哈佛和麻省理工课程](https://www.edx.org/)
 - 世界名画: https://www.nbfox.com/
 - 产品经理和UI设计必备 - 墨刀(已开始堕落): https://modao.cc/
-- 浏览器中的操作系统，可用来免费发布网站和内容，提供二级域名: https://puter.com/
+- 浏览器中的操作系统，可用来免费发布网站和内容，提供二级域名: https://puter.com/?r=WBGOYTUA 
 - 在线编译运行各种语言: [https://www.json.cn/](https://www.json.cn/runcode/)
 - 在线SVG编辑器: https://c.runoob.com/more/svgeditor/
 - 免安装免注册在线画流程图(draw.io): https://app.diagrams.net/
