@@ -140,6 +140,7 @@
 
 ## 神级网站
 
+- OpenAI，ChatGPT: https://chat.openai.com ，一个配套的浏览器宽屏插件: [Wide GPT](https://chromewebstore.google.com/detail/wide-gpt/ceddkenhchmiajgmnlelcnackpeihohk)
 - 微软MSDN原版下载: https://msdn.itellyou.cn/
 - 学语言的网站: https://www.duolingo.com/
 - Radio Garden，想听哪里听哪里的全球广播电台: http://radio.garden/
