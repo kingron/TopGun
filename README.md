@@ -32,7 +32,7 @@
 * [Foxmail](https://www.foxmail.com/): 简洁优秀的电子邮件客户端
 * [FRP](https://github.com/fatedier/frp): 强大的内网穿透工具，需要有个公网IP的服务器，但这里有个免费的可以服用 https://freefrp.net
 * [Google Earth](https://earth.google.com/web/): 上帝之眼，地表唯一最强虚拟地球仪、卫星图和地图工具，欢迎探索整个地球
-* [gost](https://github.com/ginuerzh/gost): 强大的网络代理和隧道工具
+* [gost](https://github.com/ginuerzh/gost): 强大的网络代理和隧道工具，另外一个轻量级的转换Socks代理为HTTP代理的工具[polipo](https://www.irif.fr/~jch/software/polipo/) 
 * [HandBrake](https://handbrake.fr/): 最小巧的视频转码和VCD/DVD Ripper压缩工具
 * [Hashcat](https://hashcat.net/hashcat/): 支持显卡加速的密码/Hash破解工具，配套界面工具 [Hashcat GUI Toolkit](https://downloads.onworks.net/downloadapp/SOFTWARE/HashcatGUI.7z?service=service01)
 * [HFS](http://www.rejetto.com/hfs/): 小白也会用的最简单小巧的自带图形管理界面的HTTP文件服务器
@@ -108,6 +108,7 @@
 * [优效日历](https://www.youxiao.cn/): 漂亮且资源消耗低的强大的日历软件，次优选择 [梦畅闹钟，已停更](http://www.naozhong.net/)
 * [XDown](https://xdown.org/): 清爽无广告的IDM与BT合体的FTP/HTTP/HTTPS、STTP和BT的万能下载工具
 * [Zoom](https://www.zoom.us/): 优秀的视频会议和团队协作工作平台（免费版有40分钟限制，可重开使用），次优选择[腾讯会议](https://meeting.tencent.com/)
+* [洛雪](https://lxmusic.toside.cn/): 免费开源的音乐播放器，支持自定义音源，[免费音源](https://mykb.cipindanci.com/archive/SuperKB/4662/)
   
 ### 土豪版
 这里推荐的软件，优中选优，但氪金，体积也不一定小巧，但功能强大，性能优良。
