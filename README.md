@@ -76,7 +76,7 @@
 * [SamutraPDF](https://www.sumatrapdfreader.org/): 史上最快、最小、最纯的电子书阅读器，次优选择 Foxit PDF Reader 4.3.1版
 * [Scrcpy](https://github.com/Genymobile/scrcpy): 最简单小巧好用的电脑上连接安卓的控屏软件，安卓开发人员必备
 * [ScreenRuler](https://sourceforge.net/projects/screenruler/): 屏幕尺子，需要在屏幕上测量距离角度等数据的必备良品
-* [ScreenToGif](https://www.screentogif.com/): 强大的屏幕录制GIF动画和编辑的工具，次优选择 [GifCam](https://blog.bahraniapps.com/gifcam/)
+* [Gif123](https://gif123.aardio.com/): 极其小巧的屏幕录制GIF动画和编辑的工具，次优选择 [GifCam](https://blog.bahraniapps.com/gifcam/), [ScreenToGif](https://www.screentogif.com/)
 * [Simple Run Blocker](https://www.sordum.org/8486/simple-run-blocker-v1-5/): 简单易用的限制特定程序运行的小工具（只能限制文件名），家长可以用来限制孩子运行某些程序
 * ~~[SocksCap](https://www.sockscap64.com/sockscap-64-free-download-zh-hans/): 通过Hook让不支持代理的程序无需任何修改即可支持代理，对于一些老旧软件来说是福音~~ Windows 10下测试不成功
 * [SQLiteStudio](https://sqlitestudio.pl/): 优秀的SQLite数据库管理客户端桌面应用
