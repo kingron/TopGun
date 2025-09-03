@@ -1,7 +1,7 @@
 # TopGun
 
-| 那些年，大浪淘沙，我们亲测用过的闪闪发光的极品软件和网站<br/>参阅: https://github.com/Awesome-Windows/Awesome | <img src="https://source.unsplash.com/random/?cute-kitten" height=100> |
-| :------ | ------: |
+| 那些年，大浪淘沙，我们亲测用过的闪闪发光的极品软件和网站<br/>参阅: https://github.com/Awesome-Windows/Awesome |
+| :------ |
 
 
 ## Windows
@@ -109,6 +109,7 @@
 * [XDown](https://xdown.org/): 清爽无广告的IDM与BT合体的FTP/HTTP/HTTPS、STTP和BT的万能下载工具
 * [Zoom](https://www.zoom.us/): 优秀的视频会议和团队协作工作平台（免费版有40分钟限制，可重开使用），次优选择[腾讯会议](https://meeting.tencent.com/)
 * [洛雪](https://lxmusic.toside.cn/): 免费开源的音乐播放器，支持自定义音源，[免费音源](https://mykb.cipindanci.com/archive/SuperKB/4662/)
+* [Acrylic](https://mayakron.altervista.org/support/acrylic/Home.htm): 本地hosts泛域名解释
   
 ### 土豪版
 这里推荐的软件，优中选优，但氪金，体积也不一定小巧，但功能强大，性能优良。
