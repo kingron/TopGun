@@ -191,3 +191,5 @@
 - 全球著名景点全景网: https://www.airpano.com/
 - 检查密码是否泄露网站: https://haveibeenpwned.com/
 - 在线跑包，密码Hash破解: https://www.onlinehashcrack.com/
+- 免费在线格式化Delphi/Pascal代码: https://pscodec.cipindanci.com/pasfmt/
+- 免费在线对Powershell代码进行Base64编码解码用于encodedCommand: https://pscodec.cipindanci.com/
