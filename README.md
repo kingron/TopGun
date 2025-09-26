@@ -110,6 +110,9 @@
 * [Zoom](https://www.zoom.us/): 优秀的视频会议和团队协作工作平台（免费版有40分钟限制，可重开使用），次优选择[腾讯会议](https://meeting.tencent.com/)
 * [洛雪](https://lxmusic.toside.cn/): 免费开源的音乐播放器，支持自定义音源，[免费音源](https://mykb.cipindanci.com/archive/SuperKB/4662/)
 * [Acrylic](https://mayakron.altervista.org/support/acrylic/Home.htm): 本地hosts泛域名解释
+* [Fluent Reader](https://github.com/yang991178/fluent-reader): 开源好用的RSS阅读器，配合食用RSS源: [plink.anyfeeder.com](https://plink.anyfeeder.com/)
+* [ZBar bar code reader](https://zbar.sourceforge.net/download.html)，简单小巧的二维码识别工具，支持命令行解释图片
+* [aardio 官方网站](https://aardio.com/): 桌面应用快速开发，非常小巧轻便，需要Windows API知识
   
 ### 土豪版
 这里推荐的软件，优中选优，但氪金，体积也不一定小巧，但功能强大，性能优良。
@@ -191,6 +194,19 @@
 - 免注册阅后即焚私信网站: https://privnote.com/
 - 全球著名景点全景网: https://www.airpano.com/
 - 检查密码是否泄露网站: https://haveibeenpwned.com/
+- 在线数据库ER图: https://dbdiagram.io/d
 - 在线跑包，密码Hash破解: https://www.onlinehashcrack.com/
+- 字符画，https://www.asciiart.eu/
 - 免费在线格式化Delphi/Pascal代码: https://pscodec.cipindanci.com/pasfmt/
 - 免费在线对Powershell代码进行Base64编码解码用于encodedCommand: https://pscodec.cipindanci.com/
+- 免费的CSS开源库： [Uiverse | The Largest Library of Open-Source UI elements](https://uiverse.io/)
+- 海盗湾，全球最大种子库: https://thepiratebay.org/
+- 免费，免注册，图片扫描处理: https://onlinecamscanner.com/
+- 百度坐标拾取: https://api.map.baidu.com/lbsapi/getpoint/
+- SQL在线编译和运行: https://sqlfiddle.com/
+- 一站式开发帮助文档: https://devdocs.io/，另外的离线软件 [Velocity - The Documentation and Docset Viewer for Windows](https://velocity.silverlakesoftware.com/)
+- PDF转换网站: [PDF转Excel转换器 - 免费服务](https://smallpdf.com/cn/pdf-to-excel)
+- 中国教材: [GitHub - TapXWorld/ChinaTextbook: 所有小初高、大学PDF教材](https://github.com/TapXWorld/ChinaTextbook)
+- 无损音乐下载: https://flac.music.hi.cn/
+- 在线图标编辑和制作工具: [Icon Editor - Create & Edit ICO Files Online | RedKetchup](https://redketchup.io/icon-editor)
+- 
