@@ -153,7 +153,7 @@
 - 温特大学业余无线电，可视化全频谱软件无线电: http://websdr.ewi.utwente.nl:8901/
 - DeepL，在线翻译网站: https://www.deepl.com/translator
 - 全球第二大安卓站免安装免注册直接下APK: https://apkpure.com/
-- 文字云: https://wordart.com/create , 球形可交互文字云[Word ball](https://wordball..site/)
+- 文字云: https://wordart.com/create , 球形可交互文字云[Word ball](https://wordball.puter.site/)
 - 网页制作技术教学和教程: https://www.w3school.com.cn/
 - 强大的在线正则表达式工具: https://regex101.com/
 - 在线JSON编辑工具: https://jsoneditoronline.org/
